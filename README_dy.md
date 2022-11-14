@@ -8,7 +8,7 @@
 ## 抖音算法
 
 ### 设备注册算法
-<img src="./data/dy_reg.png">
+<img src="dy_reg.png">
 
 ```json
 {
@@ -18,7 +18,7 @@
 ```
 
 ### x-gorgon x-kronos 算法
-<img src="./data/dy_xg.png">
+<img src="dy_xg.png">
 
 ```json
 {
@@ -28,7 +28,7 @@
 ```
 
 ### x-argus x-ladon 算法
-<img src="./data/dy_xa.png">
+<img src="dy_xa.png">
 
 ```json
 {
@@ -40,7 +40,7 @@
 ```
 
 #### 用户详情测试
-<img src="./data/dy_userinfo.gif">
+<img src="dy_userinfo.gif">
 
 
 # [联系交流](https://t.me/xgxkxaxl)

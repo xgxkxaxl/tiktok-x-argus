@@ -8,7 +8,7 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 ## Tiktok Algorithm
 
 ### Device Register
-<img src="./data/tt_reg.png">
+<img src="tt_reg.png">
 
 ```json
 {
@@ -19,7 +19,7 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 
 
 ### x-gorgon x-kronos algorithm
-<img src="./data/tt_xg.png">
+<img src="tt_xg.png">
 
 ```json
 {
@@ -29,7 +29,7 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 ```
 
 ### x-argus x-ladon algorithm
-<img src="./data/tt_xa.png">
+<img src="tt_xa.png">
 
 ```json
 {
@@ -41,7 +41,8 @@ douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register 
 ```
 
 #### user info test
-<img src="./data/tt_userinfo.gif">
+<img src="tt_userinfo.gif">
+
 
 
 # [Contact Telegram](https://t.me/xgxkxaxl)
